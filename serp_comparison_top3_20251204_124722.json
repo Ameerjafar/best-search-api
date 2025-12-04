@@ -1,0 +1,353 @@
+{
+  "query": "market analysis solar panel",
+  "timestamp": "2025-12-04T12:47:22.520151",
+  "comparison": [
+    {
+      "api": "searchapi",
+      "time_ms": 5808,
+      "results_count": 3,
+      "results": [
+        {
+          "position": 1,
+          "title": "Solar Market Insight Report – SEIA",
+          "link": "https://seia.org/research-resources/us-solar-market-insight/",
+          "source": "Solar Energy Industries Association",
+          "domain": "seia.org",
+          "displayed_link": "https://seia.org › research-resources › us-solar-market-i...",
+          "snippet": "The full Solar Market Insight Report includes all the data and analysis from our Executive Summary plus incisive, state-level breakdowns of installations, ...",
+          "snippet_highlighted_words": [
+            "all the data and analysis from our Executive Summary"
+          ],
+          "date": "Sep 8, 2025",
+          "sitelinks": {
+            "inline": [
+              {
+                "title": "Solar Industry Research Data",
+                "link": "https://seia.org/research-resources/solar-industry-research-data/"
+              },
+              {
+                "title": "Solar Market Insight Report Q2...",
+                "link": "https://seia.org/research-resources/solar-market-insight-report-q2-2025/"
+              },
+              {
+                "title": "Report",
+                "link": "https://seia.org/news/q2-2025-report/"
+              }
+            ]
+          },
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEVHcEzsvUPtwEjptz3quD/quD/ptz7ptz7ptz7twEjpuD/ptz710l7ptz7ptz3zzVjptz7+6Xjptz795nb95HT95nX95XX+53b95XX95XX843P95nX95HT95XX95XX95XX843PkipAfAAAAIXRSTlMADSk/U3LF9/8DhNk0vq8X6iKgfIOqn4zp/0vXd833wFO/E6Q/AAAAtElEQVR4AX3ORQIDIQxA0eAw0HFDRu5/ybq34S95QALvEco4owR+I0IqfU2KLzfFVZSV0iqtCvNm1J7FCno9M1RYS5/mzs8ODt5iJX+Z4vAVr26r1NpWjfvW29hWW9P18DeqazKM/+380E0zYkS1zgcEmSYxApIonU8YtmzyDsOCLGuFmOGwzgaQqiuizWuF4+Ydjsn3ODY+At7gdxwrn9s3+AFyOmaUxoFkeB8Dygag+t7qBNpNCDo5DacQAAAAAElFTkSuQmCC"
+        },
+        {
+          "position": 2,
+          "title": "Solar PV Panels Market Size, Share & Trends Report, 2030",
+          "link": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+          "source": "Grand View Research",
+          "domain": "www.grandviewresearch.com",
+          "displayed_link": "https://www.grandviewresearch.com › industry-analysis",
+          "snippet": "The global solar PV panels market size was estimated at USD 170.25 billion in 2023 and is projected to reach USD 287.13 billion by 2030, growing at a compound ...",
+          "snippet_highlighted_words": [
+            "global solar PV panels market size was estimated at USD 170.25 billion in 2023"
+          ],
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEU3G1RCU4dGYZM/R3w6Jl07Mmn///9UqdU/P3M2EEk9PHJIbp9czvhLfKwxAEFNi7hRmMXc2uK0sL61tcW4u8uEhKLq6expHqBYAAAACXRSTlP+////////+b2nvgTmAAAA8UlEQVQ4jaXRUbKDIAwF0CvIs4KmtGr3v9RHCGpsqX70fnTs5BhCBPrT4KKexO8AFwa4GAO4IGjbc5LAuWBQSN3AuY1U78Mgv0yS7WH9C++W6bllAsX7HkMMpj+VlsKwh4+w7nkAPY26noCXDg9JGohiqbfEoLECFgEuTUxdrjvqNXjJEXxpEZbkmsbOegafl0LDYKjswZhl5kw5s+wNCFQ2m4BpGmut996lav7Ry0cIJhul1PbBIJNmJ/4gMI7h0OTQRcA7WZsUch+/kSLSNyuiPgry1/1sso6SQIxF1EdBF3cSKgRdVyHqHAbvRI9y+weX8R/1/SffyQAAAABJRU5ErkJggg=="
+        },
+        {
+          "position": 3,
+          "title": "Solar Power Market Size, Share, Trends | Growth Report ...",
+          "link": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+          "source": "Fortune Business Insights",
+          "domain": "www.fortunebusinessinsights.com",
+          "displayed_link": "https://www.fortunebusinessinsights.com › industry-reports",
+          "snippet": "The global solar power market is projected to grow from $253.69 billion in 2023 to $436.36 billion by 2032, at a CAGR of 6% in the forecast period.",
+          "snippet_highlighted_words": [
+            "grow from $253.69 billion in 2023 to $436.36 billion by 2032"
+          ],
+          "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEwAY4kAY4kAX4UAY4kAY4kAYogbmcEbmcEbmcEAYogWj7cbmcEbmcEAY4kZlr4bmcEAY4kbmcEbmcEbmcEbmcEmAaH0AAAAFnRSTlMA2c8nsv9Zuf9JQAiK1KAa53Vzoi1g02iHBwAAAK9JREFUeAG8kMUBxDAQxBQGxxfuv9TwhOF3+kqGXf6B4w44Hr57xFMQjIS4wZGQKE5QkN76eC4e/YgBRu/c+IkMePOxBTP5H0cM+RQUwOgV7LEKnOAlsNqDWwqoJjJ9ktv/CXMOUmwstKgXbzkFnrwojkFKISNqBX6aph5NsmOOFdzsoZ2C5ito9QTkJyINOv9f/zvTgPw9wKtvgTcfASbITfxABmA8svqW1tBvkAAAS2ITZ/CpXeUAAAAASUVORK5CYII="
+        }
+      ]
+    },
+    {
+      "api": "serpapi",
+      "time_ms": 3276,
+      "results_count": 3,
+      "results": [
+        {
+          "position": 1,
+          "title": "Solar Market Insight Report – SEIA",
+          "link": "https://seia.org/research-resources/us-solar-market-insight/",
+          "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://seia.org/research-resources/us-solar-market-insight/&ved=2ahUKEwiglp2opqORAxUh4MkDHZsBD3kQFnoECCMQAQ",
+          "displayed_link": "https://seia.org › research-resources › us-solar-market-i...",
+          "favicon": "https://serpapi.com/searches/693129553023942a44d05419/images/baf0ffdcc9618fd0b3ea75aa432b6fe9699e6196b654203ec9e7aef1449420c0.png",
+          "date": "Sep 8, 2025",
+          "snippet": "The full Solar Market Insight Report includes all the data and analysis from our Executive Summary plus incisive, state-level breakdowns of installations, ...",
+          "snippet_highlighted_words": [
+            "all the data and analysis from our Executive Summary"
+          ],
+          "sitelinks": {
+            "inline": [
+              {
+                "title": "Solar Industry Research Data",
+                "link": "https://seia.org/research-resources/solar-industry-research-data/"
+              },
+              {
+                "title": "Solar Market Insight Report Q2...",
+                "link": "https://seia.org/research-resources/solar-market-insight-report-q2-2025/"
+              },
+              {
+                "title": "Report",
+                "link": "https://seia.org/news/q2-2025-report/"
+              }
+            ]
+          },
+          "source": "Solar Energy Industries Association"
+        },
+        {
+          "position": 2,
+          "title": "Solar PV Panels Market Size, Share & Trends Report, 2030",
+          "link": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+          "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grandviewresearch.com/industry-analysis/solar-panels-market&ved=2ahUKEwiglp2opqORAxUh4MkDHZsBD3kQFnoECBoQAQ",
+          "displayed_link": "https://www.grandviewresearch.com › industry-analysis",
+          "favicon": "https://serpapi.com/searches/693129553023942a44d05419/images/baf0ffdcc9618fd0b3ea75aa432b6fe950a7b4388c69e21577daa3bdce1ce225.png",
+          "snippet": "The global solar PV panels market size was estimated at USD 170.25 billion in 2023 and is projected to reach USD 287.13 billion by 2030, growing at a compound ...",
+          "snippet_highlighted_words": [
+            "global solar PV panels market size was estimated at USD 170.25 billion in 2023"
+          ],
+          "source": "Grand View Research"
+        },
+        {
+          "position": 3,
+          "title": "Solar Power Market Size, Share, Trends | Growth Report ...",
+          "link": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+          "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764&ved=2ahUKEwiglp2opqORAxUh4MkDHZsBD3kQFnoECBwQAQ",
+          "displayed_link": "https://www.fortunebusinessinsights.com › industry-reports",
+          "favicon": "https://serpapi.com/searches/693129553023942a44d05419/images/baf0ffdcc9618fd0b3ea75aa432b6fe9c99bf104274525d747737cc4cf2fbe5d.png",
+          "snippet": "The global solar power market is projected to grow from $253.69 billion in 2023 to $436.36 billion by 2032, at a CAGR of 6% in the forecast period.",
+          "snippet_highlighted_words": [
+            "grow from $253.69 billion in 2023 to $436.36 billion by 2032"
+          ],
+          "source": "Fortune Business Insights"
+        }
+      ]
+    },
+    {
+      "api": "serper",
+      "time_ms": 4579,
+      "results_count": 3,
+      "results": [
+        {
+          "title": "Solar Market Insight Report – SEIA",
+          "link": "https://seia.org/research-resources/us-solar-market-insight/",
+          "snippet": "The US solar industry installed 7.5 gigawatts direct current (GWdc) of capacity in Q2 2025, a 24% decline from Q2 2024 and a 28% decrease since ...",
+          "date": "Sep 8, 2025",
+          "position": 1
+        },
+        {
+          "title": "Solar PV Panels Market Size, Share & Trends Report, 2030",
+          "link": "https://www.grandviewresearch.com/industry-analysis/solar-panels-market",
+          "snippet": "The global solar PV panels market size was estimated at USD 170.25 billion in 2023 and is projected to reach USD 287.13 billion by 2030, growing at a compound ...",
+          "position": 2
+        },
+        {
+          "title": "Solar Power Market Size, Share, Trends | Growth Report ...",
+          "link": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+          "snippet": "The global solar power market is projected to grow from $253.69 billion in 2023 to $436.36 billion by 2032, at a CAGR of 6% in the forecast period.",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "api": "google_cse",
+      "time_ms": 2262,
+      "results_count": 3,
+      "results": [
+        {
+          "kind": "customsearch#result",
+          "title": "Solar Market Insight Report – SEIA",
+          "htmlTitle": "<b>Solar Market</b> Insight Report – SEIA",
+          "link": "https://seia.org/research-resources/us-solar-market-insight/",
+          "displayLink": "seia.org",
+          "snippet": "Sep 8, 2025 ... The US solar industry installed 7.5 gigawatts direct current (GWdc) of capacity in Q2 2025, a 24% decline from Q2 2024 and a 28% decrease since ...",
+          "htmlSnippet": "Sep 8, 2025 <b>...</b> The US <b>solar industry</b> installed 7.5 gigawatts direct current (GWdc) of capacity in Q2 2025, a 24% decline from Q2 2024 and a 28% decrease since&nbsp;...",
+          "formattedUrl": "https://seia.org/research-resources/us-solar-market-insight/",
+          "htmlFormattedUrl": "https://seia.org/research-resources/us-<b>solar</b>-<b>market</b>-insight/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXx__JgHTFlfilJ9fZ1-3x_BJu81ciZBO-23bB7dYp5EzhJrB0-6J8g3s&s",
+                "width": "207",
+                "height": "243"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://seia.org/wp-content/uploads/2024/09/AdobeStock_489663850-scaled-e1725481908964.jpeg",
+                "og:type": "article",
+                "og:image:width": "1706",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "SEIA",
+                "og:title": "Solar Market Insight Report – SEIA",
+                "og:image:height": "2001",
+                "twitter:label1": "Est. reading time",
+                "og:image:type": "image/jpeg",
+                "msapplication-tileimage": "https://seia.org/wp-content/uploads/2025/03/cropped-SEIA_Favicon_PNG-270x270.png",
+                "og:description": "The Solar Energy Industries Association (SEIA) is leading the transformation to a clean energy economy. Learn more at seia.org",
+                "article:publisher": "https://www.facebook.com/TheSolarIndustry",
+                "twitter:data1": "5 minutes",
+                "twitter:site": "@SEIA",
+                "article:modified_time": "2025-09-08T15:52:26+00:00",
+                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no",
+                "og:locale": "en_US",
+                "og:url": "https://seia.org/research-resources/us-solar-market-insight/",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://seia.org/wp-content/uploads/2024/09/AdobeStock_489663850-scaled-e1725481908964.jpeg"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Solar Power Market Size, Share, Trends | Growth Report [2032]",
+          "htmlTitle": "<b>Solar Power Market</b> Size, Share, Trends | Growth Report [2032]",
+          "link": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+          "displayLink": "www.fortunebusinessinsights.com",
+          "snippet": "The global solar power market size was valued at USD 253.69 billion in 2023 and is projected to be worth USD 273 billion in 2024 and reach USD 436.36 billion ...",
+          "htmlSnippet": "The global <b>solar power market</b> size was <b>valued at USD 253.69 billion in 2023</b> and is projected to be worth USD 273 billion in 2024 and reach USD 436.36 billion&nbsp;...",
+          "formattedUrl": "https://www.fortunebusinessinsights.com/.../solar-power-market-100764",
+          "htmlFormattedUrl": "https://www.fortunebusinessinsights.com/.../<b>solar</b>-power-<b>market</b>-100764",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwylM-31JLu_AJ8A1B-4osxHKcMff1eBsMCXA-qUm_MidrY4NNtFtbuc&s",
+                "width": "200",
+                "height": "200"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://www.fortunebusinessinsights.com/accets/frontend/img/twitter-logo.png",
+                "og:type": "website",
+                "og:image:alt": "Fortune Business Insights",
+                "og:image:width": "300",
+                "twitter:card": "summary",
+                "twitter:title": "Solar Power Market Size, Share, Trends | Growth Report [2032]",
+                "twitter:url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764",
+                "og:title": "Solar Power Market Size, Share, Trends | Growth Report [2032]",
+                "og:image:height": "300",
+                "og:image:type": "image/png",
+                "og:description": "The global solar power market is projected to grow from $253.69 billion in 2023 to $436.36 billion by 2032, at a CAGR of 6% in the forecast period",
+                "og:image:secure_url": "https://www.fortunebusinessinsights.com/accets/frontend/img/twitter-logo.png",
+                "twitter:image": "https://www.fortunebusinessinsights.com/accets/frontend/img/twitter-logo.png",
+                "twitter:image:alt": "Fortune Business Insights",
+                "twitter:site": "@fbinsightpvtltd",
+                "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                "twitter:description": "The global solar power market is projected to grow from $253.69 billion in 2023 to $436.36 billion by 2032, at a CAGR of 6% in the forecast period",
+                "og:url": "https://www.fortunebusinessinsights.com/industry-reports/solar-power-market-100764"
+              }
+            ],
+            "webpage": [
+              {
+                "name": "Solar Power Market Size, Share & Industry Analysis, By Technology {Solar Photovoltaic (PV) (Mono-Si, Thin Film, Multi-Si, and Others) and Concentrated Solar Power (Parabolic Trough, Power Tower,..."
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://www.fortunebusinessinsights.com/accets/frontend/img/twitter-logo.png"
+              }
+            ]
+          }
+        },
+        {
+          "kind": "customsearch#result",
+          "title": "Solar Industry Research Data – SEIA",
+          "htmlTitle": "<b>Solar Industry Research</b> Data – SEIA",
+          "link": "https://seia.org/research-resources/solar-industry-research-data/",
+          "displayLink": "seia.org",
+          "snippet": "Solar has seen massive growth since 2010. There are now 255 gigawatts direct-current of solar capacity installed nationwide, enough to power over 43 million ...",
+          "htmlSnippet": "<b>Solar</b> has seen massive growth since 2010. There are now 255 gigawatts direct-current of <b>solar</b> capacity installed nationwide, enough to <b>power</b> over 43 million&nbsp;...",
+          "formattedUrl": "https://seia.org/research-resources/solar-industry-research-data/",
+          "htmlFormattedUrl": "https://seia.org/research-resources/<b>solar</b>-industry-research-data/",
+          "pagemap": {
+            "cse_thumbnail": [
+              {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0RR8vmKSw0VJ8TpaFoUX0D3lWwE6yHTsEC5m3yrcXbHyq0NYerURULE&s",
+                "width": "174",
+                "height": "290"
+              }
+            ],
+            "metatags": [
+              {
+                "og:image": "https://seia.org/wp-content/uploads/2024/04/our-work-img.png",
+                "og:type": "article",
+                "og:image:width": "600",
+                "twitter:card": "summary_large_image",
+                "og:site_name": "SEIA",
+                "og:title": "Solar Industry Research Data – SEIA",
+                "og:image:height": "1000",
+                "twitter:label1": "Est. reading time",
+                "og:image:type": "image/png",
+                "msapplication-tileimage": "https://seia.org/wp-content/uploads/2025/03/cropped-SEIA_Favicon_PNG-270x270.png",
+                "og:description": "The Solar Energy Industries Association (SEIA) is leading the transformation to a clean energy economy. Learn more at seia.org",
+                "article:publisher": "https://www.facebook.com/TheSolarIndustry",
+                "twitter:data1": "8 minutes",
+                "twitter:site": "@SEIA",
+                "article:modified_time": "2025-10-16T15:15:54+00:00",
+                "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no",
+                "og:locale": "en_US",
+                "og:url": "https://seia.org/research-resources/solar-industry-research-data/",
+                "format-detection": "telephone=no"
+              }
+            ],
+            "cse_image": [
+              {
+                "src": "https://seia.org/wp-content/uploads/2024/04/our-work-img.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "api": "scrapingdog",
+      "time_ms": 3571,
+      "results_count": 3,
+      "results": [
+        {
+          "title": "Solar Industry Research Data – SEIA",
+          "displayed_link": "https://seia.org › research-resources › solar-industry-research-data",
+          "snippet": "Solar has seen massive growth since 2010. There are now 255 gigawatts direct-current of solar capacity installed nationwide, enough to power over 43 million ...",
+          "date": "",
+          "missing": [],
+          "link": "https://seia.org/research-resources/solar-industry-research-data/",
+          "favicon": "https://www.google.com/s2/favicons?domain=seia.org",
+          "rank": 1,
+          "page_rank": 11
+        },
+        {
+          "title": "Solar Energy Market Size, Industry Analysis, Share, Forecast 2034",
+          "displayed_link": "https://www.zionmarketresearch.com › Energy & Mining",
+          "snippet": "Global solar energy market worth at USD 271.73 Million in 2024, is expected to surpass USD 1090.78 Million by 2034, with a CAGR of 13.6% from 2025 to 2034.",
+          "date": "",
+          "missing": [],
+          "link": "https://www.zionmarketresearch.com/report/solar-energy-market",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.zionmarketresearch.com",
+          "rank": 2,
+          "page_rank": 12
+        },
+        {
+          "title": "Solar PV Panels Market Size, Share & Growth Analysis, 2031",
+          "displayed_link": "https://www.persistencemarketresearch.com › Renewable Energy",
+          "snippet": "The Solar PV Panels Market is projected to grow from US$188.5Bn in 2024 to US$349.9Bn by 2031, with a CAGR of 9.2%, driven by energy storage advancements.",
+          "date": "",
+          "missing": [],
+          "link": "https://www.persistencemarketresearch.com/market-research/solar-pv-panels-market.asp",
+          "favicon": "https://www.google.com/s2/favicons?domain=www.persistencemarketresearch.com",
+          "rank": 3,
+          "page_rank": 13
+        }
+      ]
+    }
+  ]
+}
